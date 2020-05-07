@@ -1,3 +1,5 @@
 [House Grimson](/House Grimson)
 
-And here I'm just gonna check something.
+## Gloomhaven
+
+[Scions of the VIIIth Dawn](/Scions of the VIIIth Dawn.md)
