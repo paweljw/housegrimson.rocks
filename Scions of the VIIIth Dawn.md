@@ -23,14 +23,14 @@ Nie, to w ogóle nie brzmi podejrzanie.
 Tak zaskakujące, jak grupa ludzi na tym odludziu, było to, że nikt z nich się nie poruszał. Wcale.
 Cóż było robić? Podążałam za Lucisem z bezpiecznej odległości - skoro jest zdecydowanie większy, niech idzie prodzem, może się go przestraszą.
 Dalej nic. I nagle Lucis zaczyna się śmiać!
- - To tylko kukły! Z siana i starych szmat, ha! - naigrywał się ze mnie.*
- *- No bardzo śmieszne! Ciebie też zaskoczyli! - Zaczęłam przyglądać się uważniej kukłom. Na jednej z nich wisiał naszyjnik. Znałam conajmniej dwóch kupców w Gloomhaven, którzy zapłaciliny za niego kilka groszy. Zanim zdążyłam go jednak zdjąć ze słomianej szyi, za moimi plecami rozległ się krzyk:*
+ - To tylko kukły! Z siana i starych szmat, ha! - naigrywał się ze mnie.
+ - No bardzo śmieszne! Ciebie też zaskoczyli! - Zaczęłam przyglądać się uważniej kukłom. Na jednej z nich wisiał naszyjnik. Znałam conajmniej dwóch kupców w Gloomhaven, którzy zapłaciliny za niego kilka groszy. Zanim zdążyłam go jednak zdjąć ze słomianej szyi, za moimi plecami rozległ się krzyk:
 
- *- NIE DOTYKAJCIE JEJ! - krzyczał nieznany nam starzec, który najwyraźniej był autorem tej niecodziennej instalacji.
+ - NIE DOTYKAJCIE JEJ! - krzyczał nieznany nam starzec, który najwyraźniej był autorem tej niecodziennej instalacji.
 Zostawilibyśmy go w spokoju, gdyby nie kij od miotły, który o mało co nie spotkałby się z moją głową. 
-Udało mi się go złapać w ostatniej chwili i przewrócić dziadygę.*
- - To moje żony, zostawcie je w spokoju! Moje! - krzyczał w naszym kierunku. Staruch nie chciał słuchać naszych wyjaśnień - co chwilę próował pobić nas kijem, śmierdząc przy tym okrutnie i wykrzykując coś o podarku z gwiazd.*
-*Zostawiliśmy jego i jego żony w spokoju, ale smród jego łachmanów czuliśmy jeszcze przez długi czas. Brrr.*
+Udało mi się go złapać w ostatniej chwili i przewrócić dziadygę.
+ - To moje żony, zostawcie je w spokoju! Moje! - krzyczał w naszym kierunku. Staruch nie chciał słuchać naszych wyjaśnień - co chwilę próował pobić nas kijem, śmierdząc przy tym okrutnie i wykrzykując coś o podarku z gwiazd.
+Zostawiliśmy jego i jego żony w spokoju, ale smród jego łachmanów czuliśmy jeszcze przez długi czas. Brrr.*
 
 
 ## #1: Czarny Kurhan
