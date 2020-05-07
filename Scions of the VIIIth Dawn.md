@@ -51,7 +51,9 @@ To miała być rutynowa robota: rozbić parę łbów, zabrać jakieś dokumenty,
 
 Oczywiście, to byłoby zbyt proste: w zestawie do bandytów trafiły się jeszcze ożywione szkielety. Poradziliśmy sobie i z nimi, choć szczególnie prosto nie było. Niestety jednak nic nam to nie dało: nie znaleźliśmy tego, którego szukaliśmy... będziemy musieli wejść głębiej pod Kurhan. Wspominałem już, że to w ogóle nie brzmi podejrzanie?
 
-* **Odkryte:** Kryjówka w Kurhanie (G-11).
+W skrzyni pod ścianą Vivi znalazła mapę do jakiejś laguny. Obiecałem jej, że kiedyś tam pójdziemy. Nigdy nie myślałem, że Kwartyle lubią pływać. Albo, że potrafią oddychać pod wodą.
+
+* **Odkryte:** Kryjówka w Kurhanie (G-11), Podwodna Laguna (K-16).
 * **Osiągnięcie:** Pierwsze Kroki.
 
 ## #2: Kryjówka w Kurhanie
@@ -70,10 +72,30 @@ Chce, żeby dać im nauczkę. Porządną nauczkę. Wybić wszystkich.
 
 No cóż, zacznijmy od tego. Nad rzeką pewnie i tak nie czeka nas nic miłego.
 
-Serio, założę się że nie nazywają ją _Martwą_ dlatego że to świetne miejsce na leżing, plażing i smażing.
+Serio, założę się że nie nazywają ją _Martwą_ dlatego że to świetne miejsce na leżing, plażing i smażing. Przynajmniej w skrzyni ze skarbem leżało trochę grosza, a to zawsze miłe. 
 
 * **Odkryte**: Obozowisko Inoksów (G-3), Krypta Potępionych (E-11).
 * **Dobrobyt + 1**
+
+### Miasto: 1
+
+Przed wyruszeniem do obozowiska postanowiliśmy odwiedzić jeszcze targowisko w Gloomhaven. Lucis zakupił sobie nowe buty, a ja mimo wywracania kieszeni na lewą stronę niestety nie znalazłam dość złota, by móc sobie na coś pozwolić. Nic to jednak, na pewno niedługo tu znów wrócimy.
+
+"Kradniesz sakiewki, to trafisz do Twierdzy Duchów!" jeden ze strażników krzyczał na szamoczącego się dzieciaka. Zapłakany chłopiec próbował tłumaczyć się głodem, ale strażnicy byli nieugięci.
+
+Gdy usłyszeliśmy jego głos zamarliśmy.
+
+Znaliśmy go, kilka razy z nim załatwialiśmy interesy, bo młody zawsze wiedział gdzie tacy jak my mogą znaleźć pracę.
+
+Podeszliśmy do strażników, mając nadzieję, że uda nam się pomóc chłopakowi. Po dłuższych negocjacjach w końcu zgadzają się, pod warunkiem, że zapłacimy w jego imieniu grzywnę. Na szczęście dziesięć sztuk złota jeszcze uzbieraliśmy. Chłopiec dostał naganę i kuksańca na drogę, ale został puszczony wolno.
+
+Szkoda, że ludzie w Gloomhaven wciąż głodują.
+
+* **Lucis: Buty Raźnego Kroku** (zakupy)
+
+### Szlak: 2
+
+Czy bycie uczynnym na szlaku naprawdę jest nam do czegokolwiek potrzebne? Czy naprawdę musieliśmy spędzić kilka godzin ręcznie usuwając powalone drzewa z drogi, tylko po to, by _następni_ nie musieli? Jeśli istnieje na tym świecie jakaś kosmiczna sprawiedliwość to jeszcze jej nie spotkaliśmy. Do obozowiska dotarliśmy wymęczeni, ale Inoksowie pozostali niewzruszeni i wciąż próbowali nas pozabijać.
 
 ## #3: Obozowisko Inoksów
 
@@ -97,13 +119,22 @@ Argiza twierdzi, że Jeksera próbuje obalić wojskowy rząd w Gloomhaven. Nam t
 
 Marginalnie. Ale jednak.
 
+W całym tym zamieszaniu Vivi dała radę buchnąć Inoksom jakąś zbroję. Jak ona to założy, to będzie komicznie.
+
 * **Odkryte**: Magazyn w Gloomhaven (C-18), Kopalnia diamentów (L-2).
 * **Osiągnięcie: Plany Jeksery**
 * **Dobrobyt +1**
+* **Vivi: Zbroja Karacenowa** (skarb)
+
+### Miasto: 2
+Odpoczywaliśmy _Pod Śpiącym Lwem_, gdy nadarzyła się okazja by trochę zarobić. Tajemniczo przekazane zlecenie na kartce papieru okazało się być dla nas jednak niewykonalne.
+
+Cóż, przynajmniej wiemy, że do włamywania się gdziekolwiek trzeba mieć choć trochę zwinności. Klient nie był zadowolony, a dodatkowo zobaczyli nas strażnicy.
+
+* **Reputacja -3**
 
 ## #8: Magazyn w Gloomhaven
 
 Pod osłoną nocy przemykamy się do magazynu. Miał być opuszczony. Oczywiście jest napchany kościejami... Gdzieś to już widzieliśmy.
 Najwyraźniej "dokumenty" które odebraliśmy hersztowi bandytów nie poszły na marne i zawarta w nich nekromantyczna magia nadal działa.
 A za chwilę spróbuje nam spuścić łomot.
-
