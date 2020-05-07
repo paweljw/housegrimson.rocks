@@ -21,26 +21,28 @@ Nie, to w ogóle nie brzmi podejrzanie.
 * **Odkryte:** Czarny Kurhan (G-10).
 * **Osiągnięcie:** Władze Miasta: Wojskowe.
 
-*Myśleliśmy, że podróż tak daleko od głównego szlaku będzie bezpieczniejsza. Grupa postaci przed nami, nie wróżyła jednak niczego dobrego. Dobyliśmy broni i czekaliśmy, aż nas niewątpliwie zauważą i spróbują zrabować. Ich problem.*
+### Szlak: 1
 
-*Tak zaskakujące, jak grupa ludzi na tym odludziu, było to, że nikt z nich się nie poruszał. Wcale.*
+Myśleliśmy, że podróż tak daleko od głównego szlaku będzie bezpieczniejsza. Grupa postaci przed nami, nie wróżyła jednak niczego dobrego. Dobyliśmy broni i czekaliśmy, aż nas niewątpliwie zauważą i spróbują zrabować. Ich problem.
 
-*Cóż było robić? Podążałam za Lucisem z bezpiecznej odległości - skoro jest zdecydowanie większy, niech idzie prodzem, może się go przestraszą.*
+Tak zaskakujące, jak grupa ludzi na tym odludziu, było to, że nikt z nich się nie poruszał. Wcale.
 
-*Dalej nic. I nagle Lucis zaczyna się śmiać!*
+Cóż było robić? Podążałam za Lucisem z bezpiecznej odległości - skoro jest zdecydowanie większy, niech idzie prodzem, może się go przestraszą.
 
- *"To tylko kukły! Z siana i starych szmat, ha!" naigrywał się ze mnie.*
+Dalej nic. I nagle Lucis zaczyna się śmiać!
+
+"To tylko kukły! Z siana i starych szmat, ha!" naigrywał się ze mnie.
  
- *"No bardzo śmieszne! Ciebie też zaskoczyli!" Zaczęłam przyglądać się uważniej kukłom. Na jednej z nich wisiał naszyjnik. Znałam conajmniej dwóch kupców w Gloomhaven, którzy zapłaciliny za niego kilka groszy. Zanim zdążyłam go jednak zdjąć ze słomianej szyi, za moimi plecami rozległ się krzyk:*
+"No bardzo śmieszne! Ciebie też zaskoczyli!" Zaczęłam przyglądać się uważniej kukłom. Na jednej z nich wisiał naszyjnik. Znałam conajmniej dwóch kupców w Gloomhaven, którzy zapłaciliny za niego kilka groszy. Zanim zdążyłam go jednak zdjąć ze słomianej szyi, za moimi plecami rozległ się krzyk:
  
-*"NIE DOTYKAJCIE JEJ!" krzyczał nieznany nam starzec, który najwyraźniej był autorem tej niecodziennej instalacji.*
+"NIE DOTYKAJCIE JEJ!" krzyczał nieznany nam starzec, który najwyraźniej był autorem tej niecodziennej instalacji.
  
-*Zostawilibyśmy go w spokoju, gdyby nie kij od miotły, który o mało co nie spotkałby się z moją głową. 
-Udało mi się go złapać w ostatniej chwili i przewrócić dziadygę.*
+Zostawilibyśmy go w spokoju, gdyby nie kij od miotły, który o mało co nie spotkałby się z moją głową. 
+Udało mi się go złapać w ostatniej chwili i przewrócić dziadygę.
 
-*"To moje żony, zostawcie je w spokoju! Moje!" wydzierał się w naszym kierunku. Staruch nie chciał słuchać naszych wyjaśnień - co chwilę próbował pobić nas kijem, śmierdząc przy tym okrutnie i wykrzykując coś o podarku z gwiazd.*
+"To moje żony, zostawcie je w spokoju! Moje!" wydzierał się w naszym kierunku. Staruch nie chciał słuchać naszych wyjaśnień - co chwilę próbował pobić nas kijem, śmierdząc przy tym okrutnie i wykrzykując coś o _podarku z gwiazd_.
 
-*Zostawiliśmy jego i jego żony w spokoju, ale smród jego łachmanów czuliśmy jeszcze przez długi czas. Brrr.*
+Zostawiliśmy jego i jego żony w spokoju, ale smród jego łachmanów czuliśmy jeszcze przez długi czas. Brrr.
 
 
 ## #1: Czarny Kurhan
