@@ -21,26 +21,33 @@ Nie, to w ogóle nie brzmi podejrzanie.
 * **Odkryte:** Czarny Kurhan (G-10).
 * **Osiągnięcie:** Władze Miasta: Wojskowe.
 
-*Myśleliśmy, że podóż tak daleko od głównego szlaku będzie bezpieczniejsza. Grupa postaci przed nami, nie wróżyła jednak niczego dobrego. Dobyliśmy broni i czekaliśmy, aż nas niewątpliwie zauważą i spróbują zrabować. Ich problem.
-Tak zaskakujące, jak grupa ludzi na tym odludziu, było to, że nikt z nich się nie poruszał. Wcale.
-Cóż było robić? Podążałam za Lucisem z bezpiecznej odległości - skoro jest zdecydowanie większy, niech idzie prodzem, może się go przestraszą.
-Dalej nic. I nagle Lucis zaczyna się śmiać!
- - To tylko kukły! Z siana i starych szmat, ha! - naigrywał się ze mnie.
- - No bardzo śmieszne! Ciebie też zaskoczyli! - Zaczęłam przyglądać się uważniej kukłom. Na jednej z nich wisiał naszyjnik. Znałam conajmniej dwóch kupców w Gloomhaven, którzy zapłaciliny za niego kilka groszy. Zanim zdążyłam go jednak zdjąć ze słomianej szyi, za moimi plecami rozległ się krzyk:
+*Myśleliśmy, że podróż tak daleko od głównego szlaku będzie bezpieczniejsza. Grupa postaci przed nami, nie wróżyła jednak niczego dobrego. Dobyliśmy broni i czekaliśmy, aż nas niewątpliwie zauważą i spróbują zrabować. Ich problem.*
 
- - NIE DOTYKAJCIE JEJ! - krzyczał nieznany nam starzec, który najwyraźniej był autorem tej niecodziennej instalacji.
-Zostawilibyśmy go w spokoju, gdyby nie kij od miotły, który o mało co nie spotkałby się z moją głową. 
-Udało mi się go złapać w ostatniej chwili i przewrócić dziadygę.
- - To moje żony, zostawcie je w spokoju! Moje! - krzyczał w naszym kierunku. Staruch nie chciał słuchać naszych wyjaśnień - co chwilę próował pobić nas kijem, śmierdząc przy tym okrutnie i wykrzykując coś o podarku z gwiazd.
-Zostawiliśmy jego i jego żony w spokoju, ale smród jego łachmanów czuliśmy jeszcze przez długi czas. Brrr.*
+*Tak zaskakujące, jak grupa ludzi na tym odludziu, było to, że nikt z nich się nie poruszał. Wcale.*
+
+*Cóż było robić? Podążałam za Lucisem z bezpiecznej odległości - skoro jest zdecydowanie większy, niech idzie prodzem, może się go przestraszą.*
+
+*Dalej nic. I nagle Lucis zaczyna się śmiać!*
+
+ *"To tylko kukły! Z siana i starych szmat, ha!" naigrywał się ze mnie.*
+ 
+ *"No bardzo śmieszne! Ciebie też zaskoczyli!" Zaczęłam przyglądać się uważniej kukłom. Na jednej z nich wisiał naszyjnik. Znałam conajmniej dwóch kupców w Gloomhaven, którzy zapłaciliny za niego kilka groszy. Zanim zdążyłam go jednak zdjąć ze słomianej szyi, za moimi plecami rozległ się krzyk:*
+ 
+*"NIE DOTYKAJCIE JEJ!" krzyczał nieznany nam starzec, który najwyraźniej był autorem tej niecodziennej instalacji.*
+ 
+*Zostawilibyśmy go w spokoju, gdyby nie kij od miotły, który o mało co nie spotkałby się z moją głową. 
+Udało mi się go złapać w ostatniej chwili i przewrócić dziadygę.*
+
+*"To moje żony, zostawcie je w spokoju! Moje!" wydzierał się w naszym kierunku. Staruch nie chciał słuchać naszych wyjaśnień - co chwilę próbował pobić nas kijem, śmierdząc przy tym okrutnie i wykrzykując coś o podarku z gwiazd.*
+
+*Zostawiliśmy jego i jego żony w spokoju, ale smród jego łachmanów czuliśmy jeszcze przez długi czas. Brrr.*
 
 
 ## #1: Czarny Kurhan
 
 To miała być rutynowa robota: rozbić parę łbów, zabrać jakieś dokumenty, dostać 10 sztuk złota.
 
-Oczywiście, to byłoby zbyt proste: w zestawie do bandytów trafiły się jeszcze ożywione szkielety. Poradziliśmy sobie i z nimi, choć szczególnie prosto
-nie było. Niestety jednak nic nam to nie dało: nie znaleźliśmy tego, którego szukaliśmy... będziemy musieli wejść głębiej pod Kurhan. Wspominałem już, że to w ogóle nie brzmi podejrzanie?
+Oczywiście, to byłoby zbyt proste: w zestawie do bandytów trafiły się jeszcze ożywione szkielety. Poradziliśmy sobie i z nimi, choć szczególnie prosto nie było. Niestety jednak nic nam to nie dało: nie znaleźliśmy tego, którego szukaliśmy... będziemy musieli wejść głębiej pod Kurhan. Wspominałem już, że to w ogóle nie brzmi podejrzanie?
 
 * **Odkryte:** Kryjówka w Kurhanie (G-11).
 * **Osiągnięcie:** Pierwsze Kroki.
@@ -49,19 +56,13 @@ nie było. Niestety jednak nic nam to nie dało: nie znaleźliśmy tego, któreg
 
 Za darmo jeść nie dają, więc zagrzebaliśmy się w ten Kurhan głębiej. Śmierdzi tu jak diabli.
 
-Po pewnym czasie usłyszeliśmy stłumioną rozmowę. Więcej tych bandytów. Ci wyglądają jakby czegoś pilnowali... niestety wyglądają też na bardziej
-ogarniętych niż te kloce na poziomie gruntu.
+Po pewnym czasie usłyszeliśmy stłumioną rozmowę. Więcej tych bandytów. Ci wyglądają jakby czegoś pilnowali... niestety wyglądają też na bardziej ogarniętych niż te kloce na poziomie gruntu.
 
-Znaleźliśmy tu przyjemniaczka którego szukaliśmy. Niestety, herszt bandytów złapał jakąś nieprzyjemną zarazę - coś mu się demoniczno-mrocznie
-zalęgło we łbie. No cóż, nie takie czerepy robiły już dzięki nam "chrup".
+Znaleźliśmy tu przyjemniaczka którego szukaliśmy. Niestety, herszt bandytów złapał jakąś nieprzyjemną zarazę - coś mu się demoniczno-mrocznie zalęgło we łbie. No cóż, nie takie czerepy robiły już dzięki nam "chrup".
 
-Odzyskaliśmy dokumenty. Oczywiście, że próbowaliśmy to przeczytać, ale nie wygląda jak żaden normalny język. Na pierwszy rzut oka można stwierdzić, że
-to coś starego, nikt już nie pisze w ten sposób. Gwizdnęliśmy mu też mapę - zaznaczył sobie coś nad Martwą Rzeką. Wybierzemy się tam przy okazji, ale
-chwilowo wracamy do miasta oddać dokumenty Jekserze.
+Odzyskaliśmy dokumenty. Oczywiście, że próbowaliśmy to przeczytać, ale nie wygląda jak żaden normalny język. Na pierwszy rzut oka można stwierdzić, że to coś starego, nikt już nie pisze w ten sposób. Gwizdnęliśmy mu też mapę - zaznaczył sobie coś nad Martwą Rzeką. Wybierzemy się tam przy okazji, ale chwilowo wracamy do miasta oddać dokumenty Jekserze.
 
-Wypłacalna zleceniodawczyni! To nie zdarza się codziennie. Ma też dla nas więcej roboty: w Lesie Sztyletów ktoś napada na jej karawany. Ona twierdzi
-że to banda Inoksów. Lucisa to uraża, ale jest skłonny przystać że większość jego rasy jest silniejsza niż mądrzejsza - do rabowania wozów kombinacja
-jak znalazł.
+Wypłacalna zleceniodawczyni! To nie zdarza się codziennie. Ma też dla nas więcej roboty: w Lesie Sztyletów ktoś napada na jej karawany. Ona twierdzi że to banda Inoksów. Lucisa to uraża, ale jest skłonny przystać że większość jego rasy jest silniejsza niż mądrzejsza - do rabowania wozów kombinacja jak znalazł.
 
 Chce, żeby dać im nauczkę. Porządną nauczkę. Wybić wszystkich.
 
@@ -90,8 +91,7 @@ pełno tam teraz Szczuroków.
 
 Przed posiadłością Jeksery zaczepiła nas Kwartylka mówiąca że nazywa się Argiza i pracuje ze strażą miejską. Ta. Jasne. Przyjmijmy...
 
-Argiza twierdzi, że Jeksera próbuje obalić wojskowy rząd w Gloomhaven. Nam to właściwie rybka plum, ale włamanie do magazynu w Gloomhaven
-jest nieco bezpieczniejsze niż przebijanie się przez opuszczoną kopalnię.
+Argiza twierdzi, że Jeksera próbuje obalić wojskowy rząd w Gloomhaven. Nam to właściwie rybka plum, ale włamanie do magazynu w Gloomhaven jest nieco bezpieczniejsze niż przebijanie się przez opuszczoną kopalnię.
 
 Marginalnie. Ale jednak.
 
