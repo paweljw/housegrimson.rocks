@@ -1,5 +1,7 @@
 # Scions of the VIIIth Dawn
 
+[[_TOC_]]
+
 _Każdy musi jeść._
 
 Dlatego też doktor Vivi - druciarka - i Lucis Armstrong, Inoks szerszy niż mądrzejszy, wybrali się w długą i pełną niebezpieczeństw drogę do Gloomhaven.
