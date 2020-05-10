@@ -1,7 +1,7 @@
-[House Grimson](/House Grimson)
+[[House Grimson]]
 
 ## Gloomhaven
 
-[Scions of the VIIIth Dawn](/Scions of the VIIIth Dawn.md)
+[[Scions of the VIIIth Dawn]]
 
 <<GlobalTOC("All pages")>>
