@@ -1,6 +1,5 @@
 # Reading List
 
 ## Unsorted
-* https://github.com
-https://github.com
-https://github.com
+
+* Here unsorted links will drop from `rdl`.
