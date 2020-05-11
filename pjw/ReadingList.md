@@ -12,3 +12,4 @@
 * [https://narratively.com/a-casino-card-sharks-first-time-getting-caught/](https://narratively.com/a-casino-card-sharks-first-time-getting-caught/) 
 * [https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd](https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd) 
 * [https://arstechnica.com/gaming/2020/05/how-world-of-warcraft-has-evolved-with-the-internet/](https://arstechnica.com/gaming/2020/05/how-world-of-warcraft-has-evolved-with-the-internet/) 
+* [https://nolanlawson.com/2020/05/10/linux-on-the-desktop-as-a-web-developer/](https://nolanlawson.com/2020/05/10/linux-on-the-desktop-as-a-web-developer/) 
