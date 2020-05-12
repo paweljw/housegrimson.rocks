@@ -13,3 +13,6 @@
 * [https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd](https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd) 
 * [https://arstechnica.com/gaming/2020/05/how-world-of-warcraft-has-evolved-with-the-internet/](https://arstechnica.com/gaming/2020/05/how-world-of-warcraft-has-evolved-with-the-internet/) 
 * [https://nolanlawson.com/2020/05/10/linux-on-the-desktop-as-a-web-developer/](https://nolanlawson.com/2020/05/10/linux-on-the-desktop-as-a-web-developer/) 
+* [https://fedoramagazine.org/bc-command-line-calculator/](https://fedoramagazine.org/bc-command-line-calculator/)
+* [https://github.com/josefprusa](https://github.com/josefprusa)
+* [https://railsconf.com/](https://railsconf.com/) 
