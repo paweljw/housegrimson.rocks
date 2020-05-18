@@ -16,3 +16,16 @@
 * [https://fedoramagazine.org/bc-command-line-calculator/](https://fedoramagazine.org/bc-command-line-calculator/)
 * [https://github.com/josefprusa](https://github.com/josefprusa)
 * [https://railsconf.com/](https://railsconf.com/) 
+* https://www.neilwithdata.com/advanced-sql
+* https://medium.com/@wshihadeh/five-risks-that-should-be-avoided-for-software-projects-d4609b1cba39
+* https://codefol.io/posts/a-simple-coding-exercise/
+* https://medium.com/@michelheily/hello-gba-journey-of-making-an-emulator-part-1-8793000e8606
+* https://www.andjosh.com/2020/05/09/cleaning-up-ruby-threads-and-activerecord-connections/
+* https://lobste.rs/s/fd1rbw/how_do_you_lay_out_your_home_directory
+* https://everydayrails.com/2020/05/11/working-with-legacy-rails-application.html
+* https://www.pzuraq.com/comparing-ember-octane-and-react/
+* https://www.honeybadger.io/blog/ruby-neural-networks/
+* https://dev.to/vaporyhumo/how-i-write-a-gemspec-p42
+* https://thoughtbot.com/blog/authentication-in-elixir-web-applications-with-guardian-part-1
+* https://rollout.io/blog/docker-guis/
+* https://tech.davis-hansson.com/p/tower/
