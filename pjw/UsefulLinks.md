@@ -86,6 +86,13 @@
 * [Issues with services and dry-monads](https://www.davydovanton.com/2020/05/19/five-common-issues-with-services-and-dry-monads/)
 * [Core refinements](https://www.alchemists.io/projects/refinements/)
 
+## Gems
+
+* [Prophet - data forecasting](https://github.com/ankane/prophet)
+* [Committee - Rack apps for JSON Schema](https://github.com/interagent/committee)
+* [Bulk insert for ActiveRecord](https://github.com/jamis/bulk_insert)
+* [RSpec for AWS](https://github.com/k1LoW/awspec)
+
 ## Rails
 
 * [ActiveRecord connection pools](https://www.joshbeckman.org/2020/05/09/cleaning-up-ruby-threads-and-activerecord-connections/)
